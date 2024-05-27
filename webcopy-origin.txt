@@ -1,0 +1,872 @@
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/index.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\index.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/bg/pattern-01.png
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\bg\pattern-01.png
+Content Type: image/png
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/favicon.ico
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://fonts.googleapis.com/css?family=Heebo:400,500,700|Montserrat:500,700&display=swap
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\css.css
+Content Type: text/css
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/css/font-awesome/all.min.css
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\css\font-awesome\all.min.css
+Content Type: text/css
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/css/flaticon/flaticon.css
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\css\flaticon\flaticon.css
+Content Type: text/css
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/css/bootstrap/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\css\bootstrap\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/css/owl-carousel/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\css\owl-carousel\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/css/swiper/swiper.min.css
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\css\swiper\swiper.min.css
+Content Type: text/css
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/css/animate/animate.min.css
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\css\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/css/style.css
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\css\style.css
+Content Type: text/css
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/index-02.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\index-02.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/index-03.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\index-03.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/about-us.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\about-us.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/our-approach.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\our-approach.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/our-partners.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\our-partners.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/appointment.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\appointment.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/careers.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\careers.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/faqs.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\faqs.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/team.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\team.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/team-single.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\team-single.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/contact-us.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\contact-us.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/contact-us-02.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\contact-us-02.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/login.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\login.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/error-404.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\error-404.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/cookies.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\cookies.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/privacy-policy.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\privacy-policy.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/maintenance.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\maintenance.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/coming-soon.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\coming-soon.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/service.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\service.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/accounting-outsourcing.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\accounting-outsourcing.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/service-grid-2-column-full-width.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\service-grid-2-column-full-width.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/service-grid-3-column-full-width.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\service-grid-3-column-full-width.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/service-grid-4-column-full-width.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\service-grid-4-column-full-width.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/service-grid-left-sidebar.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\service-grid-left-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/service-grid-right-sidebar.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\service-grid-right-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/service-masonry-2-column-full-width.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\service-masonry-2-column-full-width.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/service-masonry-3-column-full-width.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\service-masonry-3-column-full-width.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/service-masonry-4-column-full-width.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\service-masonry-4-column-full-width.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/service-masonry-left-sidebar.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\service-masonry-left-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/service-masonry-right-sidebar.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\service-masonry-right-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/casestudy.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\casestudy.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/casestudy-single.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\casestudy-single.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/portfolio.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\portfolio.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/portfolio-single.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\portfolio-single.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/blog-classic-full-width.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\blog-classic-full-width.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/blog-classic-left-sidebar.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\blog-classic-left-sidebar.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/blog-single.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\blog-single.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/shop.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\shop.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/shop-single.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\shop-single.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/shop-cart.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\shop-cart.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/shop-checkout.html
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\shop-checkout.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/logo.svg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/slider/home-01/03.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\slider\home-01\03.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/slider/home-01/02.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\slider\home-01\02.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/service/feature-icon/01.svg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\service\feature-icon\01.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/service/feature-icon/02.svg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\service\feature-icon\02.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/service/feature-icon/03.svg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\service\feature-icon\03.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/case-study/01.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\case-study\01.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/case-study/02.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\case-study\02.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/case-study/03.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\case-study\03.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/about/01.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\about\01.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/avatar/01.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\avatar\01.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/avatar/02.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\avatar\02.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/avatar/03.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\avatar\03.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/client/01.svg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\client\01.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/client/02.svg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\client\02.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/client/03.svg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\client\03.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/client/04.svg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\client\04.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/client/05.svg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\client\05.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/client/06.svg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\client\06.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/client/07.svg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\client\07.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/blog/01.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\blog\01.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/blog/02.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\blog\02.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/blog/03.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\blog\03.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/blog/04.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\blog\04.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/blog/05.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\blog\05.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/jquery-3.4.1.min.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/popper/popper.min.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\popper\popper.min.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/bootstrap/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\bootstrap\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/jquery.appear.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\jquery.appear.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/counter/jquery.countTo.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\counter\jquery.countTo.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/owl-carousel/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\owl-carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/swiper/swiper.min.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/swiperanimation/SwiperAnimation.min.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\swiperanimation\SwiperAnimation.min.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/easy-pie-chart/easy-pie-chart.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\easy-pie-chart\easy-pie-chart.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/apexcharts/apexcharts.min.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\apexcharts\apexcharts.min.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/apexcharts/charts.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\apexcharts\charts.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/custom.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\custom.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/Flaticon.eot
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/Flaticon.woff2
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/Flaticon.woff
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/fonts/Flaticon.svg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/service/feature-icon/04.png
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\service\feature-icon\04.png
+Content Type: image/png
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/slider/home-01/bg-pattern-02.png
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\slider\home-01\bg-pattern-02.png
+Content Type: image/png
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/slider/home-01/bg-pattern.png
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\slider\home-01\bg-pattern.png
+Content Type: image/png
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/slider/home-01/bg-pattern-03.png
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\slider\home-01\bg-pattern-03.png
+Content Type: image/png
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/slider/home-02/01.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\slider\home-02\01.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/slider/home-02/05.png
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\slider\home-02\05.png
+Content Type: image/png
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/slider/home-02/02.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\slider\home-02\02.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/service/01.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\service\01.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/service/02.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\service\02.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/service/03.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\service\03.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/service/04.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\service\04.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/service/05.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\service\05.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/css/magnific-popup/magnific-popup.css
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\css\magnific-popup\magnific-popup.css
+Content Type: text/css
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/portfolio/09.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\portfolio\09.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/portfolio/08.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\portfolio\08.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/portfolio/07.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\portfolio\07.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/portfolio/06.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\portfolio\06.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/slider/home-02/03.png
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\slider\home-02\03.png
+Content Type: image/png
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/slider/home-02/06.png
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\slider\home-02\06.png
+Content Type: image/png
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/slider/home-02/07.png
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\slider\home-02\07.png
+Content Type: image/png
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/slider/home-02/04.png
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\slider\home-02\04.png
+Content Type: image/png
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/about/03.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\about\03.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/about/04.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\about\04.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/about/signechar.png
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\about\signechar.png
+Content Type: image/png
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/magnific-popup/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\magnific-popup\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/shuffle/shuffle.min.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\shuffle\shuffle.min.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/slider/home-03/01.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\slider\home-03\01.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/slider/home-03/03.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\slider\home-03\03.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/slider/home-03/02.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\slider\home-03\02.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/logo-light.svg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\logo-light.svg
+Content Type: image/svg+xml
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/slider/home-03/03.png
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\slider\home-03\03.png
+Content Type: image/png
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/about/02.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\about\02.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/service/09.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\service\09.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/service/08.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\service\08.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/service/07.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\service\07.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/avatar/04.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\avatar\04.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/team/01.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\team\01.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/team/02.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\team\02.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/team/05.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\team\05.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/team/03.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\team\03.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/avatar/05.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\avatar\05.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/bg/01.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\bg\01.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/jarallax/jarallax.min.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\jarallax\jarallax.min.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/jarallax/jarallax-video.min.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\jarallax\jarallax-video.min.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/css/datetimepicker/datetimepicker.min.css
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\css\datetimepicker\datetimepicker.min.css
+Content Type: text/css
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/team/08.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\team\08.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/datetimepicker/moment.min.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\datetimepicker\moment.min.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/datetimepicker/datetimepicker.min.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\datetimepicker\datetimepicker.min.js
+Content Type: application/javascript
+
+Uri: https://www.youtube.com/embed/n_Cn8eFo7u8
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\embed\n_Cn8eFo7u8.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/team/04.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\team\04.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/team/06.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\team\06.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/team/07.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\team\07.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/contact/01.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\contact\01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d28999545.632871255!2d153.025131!3d-27.46977!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1582700317740!5m2!1sen!2sus
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\maps\embed.html
+Content Type: text/html
+
+Uri: https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d7584023.55044353!2d-102.24334!3d21.85227!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1582704197431!5m2!1sen!2sus
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\maps\embed-1.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/countdown/jquery.downCount.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\countdown\jquery.downCount.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/service/06.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\service\06.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/service/10.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\service\10.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/service/16.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\service\16.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/service/15.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\service\15.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/service/14.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\service\14.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/case-study/05.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\case-study\05.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/case-study/08.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\case-study\08.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/case-study/04.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\case-study\04.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/case-study/06.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\case-study\06.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/case-study/07.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\case-study\07.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/case-study/09.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\case-study\09.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/case-study/10.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\case-study\10.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/portfolio/10.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\portfolio\10.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/portfolio/11.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\portfolio\11.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/portfolio/12.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\portfolio\12.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/portfolio/13.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\portfolio\13.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/portfolio/14.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\portfolio\14.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/portfolio/15.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\portfolio\15.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/portfolio/16.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\portfolio\16.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/portfolio/17.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\portfolio\17.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/portfolio/18.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\portfolio\18.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/portfolio/19.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\portfolio\19.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/portfolio/01.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\portfolio\01.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/portfolio/02.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\portfolio\02.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/portfolio/03.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\portfolio\03.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/portfolio/20.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\portfolio\20.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/blog/13.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\blog\13.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/blog/14.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\blog\14.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/blog/15.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\blog\15.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/embed/SF4aHwxHtZ0
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\embed\SF4aHwxHtZ0.html
+Content Type: text/html
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/blog/09.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\blog\09.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/blog/10.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\blog\10.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/blog/11.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\blog\11.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/css/select2/select2.css
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\css\select2\select2.css
+Content Type: text/css
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/css/range-slider/ion.rangeSlider.css
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\css\range-slider\ion.rangeSlider.css
+Content Type: text/css
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/shop/01.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\shop\01.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/shop/02.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\shop\02.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/shop/03.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\shop\03.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/shop/04.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\shop\04.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/shop/05.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\shop\05.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/shop/06.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\shop\06.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/shop/07.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\shop\07.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/shop/08.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\shop\08.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/shop/09.jpg
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\shop\09.jpg
+Content Type: image/jpeg
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/select2/select2.full.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\select2\select2.full.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/range-slider/ion.rangeSlider.min.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\range-slider\ion.rangeSlider.min.js
+Content Type: application/javascript
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/css/slick/slick-theme.css
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\css\slick\slick-theme.css
+Content Type: text/css
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/images/service/service-logo.png
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\images\service\service-logo.png
+Content Type: image/png
+
+Uri: https://themes.potenzaglobalsolutions.com/html/finaxo/js/slick/slick.min.js
+File Name: C:\Downloaded Web Sites\themes.potenzaglobalsolutions.com\html\finaxo\js\slick\slick.min.js
+Content Type: application/javascript
+
